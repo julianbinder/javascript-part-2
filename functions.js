@@ -128,7 +128,7 @@ function operationMaker(operation) {
 };
     
     console.log(operationMaker('add')(1,5));
-    //
+    //finshed :))) 
     
 
 
